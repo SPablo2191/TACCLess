@@ -1,4 +1,4 @@
-- Hi, Welcome to my profil! My name is Pablo Sandoval. Currently, i´m an computer engineering student from Argentina.
+- Hi, Welcome to my profile! My name is Pablo Sandoval. Currently, i´m an computer engineering student from Argentina.
 - I’m interested in software development (specifically speaking, in AI and web dev )
 - 🌱 I’m currently learning about technologies such as Django and Flutter. I´d love to start new projects in my free time(but i dont have such a thing jaja)
 - I´m new in this communnity, so eem hi.
